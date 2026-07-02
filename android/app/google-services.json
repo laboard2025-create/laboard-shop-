@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648517474534",
+    "project_id": "laboard-vip-app",
+    "storage_bucket": "laboard-vip-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648517474534:android:4c4e1cedc65abb676fc327",
+        "android_client_info": {
+          "package_name": "hk.com.laboard.vipapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFGMAUEdw5J7xsgtjWoHIFqq9iBEep28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
